@@ -6,3 +6,4 @@ Company report presentation, using impress.js.
 Assignment for COMM 1034, George Brown College
 
 ### Webpage
+http://aytona.github.io/COMM1034/
