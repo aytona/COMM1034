@@ -17,3 +17,7 @@
 .impress-supported .fallback-message {
     display: none;
 }
+.step {
+	width: 900px;
+	text-align: center;
+}
