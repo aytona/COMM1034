@@ -18,6 +18,13 @@
     display: none;
 }
 .step {
-	width: 900px;
+	width: 1000px;
+	height: 720px;
 	text-align: center;
+	border-style: solid;
+}
+
+#credit {
+	position: fixed;
+	bottom: 3px;
 }
