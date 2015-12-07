@@ -28,3 +28,13 @@
 	position: fixed;
 	bottom: 3px;
 }
+
+#swot{
+	width: 750px;
+	height: 500px;
+	margin-bottom: auto;
+	margin-top: 10%;
+	margin-left: 22%;
+	margin-right: auto;
+	text-align: left;
+}
