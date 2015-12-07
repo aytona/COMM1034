@@ -28,6 +28,20 @@
 	text-align: center;
 }
 
+body {
+	background-image: url("http://theartmad.com/wp-content/uploads/Grey-Gradient-Texture-Background-5.jpg");
+	color: #d9d9d9;
+}
+
+h1 {
+	font-family: yorkwhiteletter;
+	font-size: 50px;
+}
+
+h3 {
+	font-size: 30px;
+}
+
 #credit {
 	position: fixed;
 	bottom: 3px;
@@ -43,19 +57,17 @@
 	text-align: left;
 }
 
+#outro b {
+	font-family: yorkwhiteletter;
+	font-size: 35px;
+}
+
 #careerOp {
 	font-size: 18px;
 }
 
-#careerOp h1, b {
-	font-family: yorkwhiteletter;
-}
-
-#careerOp h1 {
-	font-size: 50px;
-}
-
 #careerOp b {
+	font-family: yorkwhiteletter;
 	font-size: 35px;
 }
 
@@ -63,25 +75,13 @@
 	font-size: 18px;
 }
 
-#newGrad h1, b {
-	font-family: yorkwhiteletter;
-}
-
-#newGrad h1 {
-	font-size: 50px;
-}
-
 #newGrad b {
+	font-family: yorkwhiteletter;
 	font-size: 35px;
 }
 
-#playTest h1 {
-	font-family: yorkwhiteletter;
-	font-size: 50px;
-}
-
 #playTest a, a:link, a:visited, a:hover, a:active {
-	color: black;
+	color: #d9d9d9;
 	font-size: 80px;
 	text-decoration: none;
 }
